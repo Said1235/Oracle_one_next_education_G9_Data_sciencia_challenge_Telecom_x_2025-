@@ -27,4 +27,8 @@ Tu misión es realizar un análisis exploratorio y tratamiento de datos que perm
 ---
 
 ## 📂 Estructura sugerida del proyecto
+📁 telecom-x/
+├── 📓 telecom_churn.ipynb # Notebook con el análisis completo
+├── 📄 README.md # Descripción del proyecto (este archivo)
+└── 📂 data/ # Datos extraídos desde la API
 
